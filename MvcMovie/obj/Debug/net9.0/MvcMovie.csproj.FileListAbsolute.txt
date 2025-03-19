@@ -353,3 +353,13 @@ C:\Net_Core_API\MvcMovie\obj\Debug\net9.0\MvcMovie.pdb
 C:\Net_Core_API\MvcMovie\obj\Debug\net9.0\MvcMovie.genruntimeconfig.cache
 C:\Net_Core_API\MvcMovie\obj\Debug\net9.0\ref\MvcMovie.dll
 C:\Net_Core_API\MvcMovie\obj\Debug\net9.0\MvcMovie.sourcelink.json
+C:\Net_Core_API\MvcMovie\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Net_Core_API\MvcMovie\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Net_Core_API\MvcMovie\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Net_Core_API\MvcMovie\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Net_Core_API\MvcMovie\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Net_Core_API\MvcMovie\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Net_Core_API\MvcMovie\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Net_Core_API\MvcMovie\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Net_Core_API\MvcMovie\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Net_Core_API\MvcMovie\bin\Debug\net9.0\System.Text.Json.dll
