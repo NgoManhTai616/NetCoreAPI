@@ -14,7 +14,6 @@ D:\PTPMQL_nhóm100\MvcMovie\obj\Debug\net9.0\MvcMovie.csproj.CoreCompileInputs.c
 D:\PTPMQL_nhóm100\MvcMovie\obj\Debug\net9.0\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
 D:\PTPMQL_nhóm100\MvcMovie\obj\Debug\net9.0\MvcMovie.RazorAssemblyInfo.cache
 D:\PTPMQL_nhóm100\MvcMovie\obj\Debug\net9.0\MvcMovie.RazorAssemblyInfo.cs
-D:\PTPMQL_nhóm100\MvcMovie\obj\Debug\net9.0\MvcMovie.sourcelink.json
 D:\PTPMQL_nhóm100\MvcMovie\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\PTPMQL_nhóm100\MvcMovie\obj\Debug\net9.0\scopedcss\bundle\MvcMovie.styles.css
 D:\PTPMQL_nhóm100\MvcMovie\obj\Debug\net9.0\scopedcss\projectbundle\MvcMovie.bundle.scp.css

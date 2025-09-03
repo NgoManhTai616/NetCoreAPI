@@ -1,4 +1,4 @@
-namespace MvcMovie.Models.Models
+namespace MvcMovie.Models
 {
     public class HeThongPhanPhoi
     {
