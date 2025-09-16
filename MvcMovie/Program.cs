@@ -1,5 +1,10 @@
+using Microsoft.EntityFrameworkCore;
+using MvcMovie.Data;
 var builder = WebApplication.CreateBuilder(args);
-
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
+options.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection")
+ ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.")));
+ 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
@@ -25,7 +30,5 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}")
     .WithStaticAssets();
 
-
-app.Run();
 
 app.Run();
