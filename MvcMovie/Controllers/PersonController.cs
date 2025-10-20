@@ -5,7 +5,7 @@ using MvcMovie.Models;
 
 namespace MvcMovie.Controllers
 {
-    public class PersonController : Controller
+     public class PersonController : Controller
     {
         private readonly ApplicationDbContext _context;
 
@@ -13,8 +13,6 @@ namespace MvcMovie.Controllers
         {
             _context = context;
         }
-
-        // GET: Person
         public async Task<IActionResult> Index()
         {
             var personList = await _context.Person.ToListAsync();
